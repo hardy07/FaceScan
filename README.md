@@ -39,7 +39,7 @@
 1.  **To clone the repository, run:**
 
 ```bash
-git clone `https://github.com/yourusername/facescan-attendance.git
+git clone https://github.com/yourusername/facescan-attendance.git
 ```
 
 2.  **Set up the database:**
