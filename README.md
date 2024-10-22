@@ -92,7 +92,10 @@ git clone https://github.com/yourusername/facescan-attendance.git
 ## Screenshots
 
 ### Admin features
-
+**Login Credentials:**\
+Mail ID = admin@gmail.com\
+Password = @admin_\
+\
 **1) Admin Login**  
 ![Admin Login](<./img/Screenshot 2024-10-22 014940.png>)
 
@@ -118,7 +121,10 @@ git clone https://github.com/yourusername/facescan-attendance.git
 ![Take Student picture](./img/image.png)
 
 ### Lecturer features
-
+**Login Credentials:**\
+Mail ID = bharathimohan@gmail.com\
+Password = @mark_\
+\
 **1) Login as a Lecturer**  
 ![Lecturer Login](<./img/Screenshot 2024-10-22 020527.png>)
 
